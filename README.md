@@ -1,5 +1,5 @@
 # vim-json-coders
-encoder or decoder json in vim
+Encode(compress) or Decode(pretty) json file in vim.
 
 Use Vundle to install, add these below to .vimrc:
 ```
